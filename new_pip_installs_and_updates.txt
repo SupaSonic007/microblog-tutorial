@@ -1,1 +1,1 @@
-flask-moment
+flask-babel<3
