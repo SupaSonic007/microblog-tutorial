@@ -1,4 +1,1 @@
-flask-mail
-pyjwt
-
-2FA for gmail or other requires app password to allow mail to be send using flask_mail (Then use the app password)
+flask-bootstrap
